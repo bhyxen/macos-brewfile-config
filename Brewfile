@@ -45,6 +45,7 @@ cask "intellij-idea"
 cask "fig"
 cask "deepl"
 cask "dotnet-sdk"
+cask "malwarebytes"
 
 # 'mas install'
 mas "Adobe Lightroom", id: 1451544217
