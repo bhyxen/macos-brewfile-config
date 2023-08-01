@@ -2,7 +2,7 @@
 Brewfile configuration for an initial setup on MacOS using Homebrew.
 
 ## Installation
-```console
+```zsh
 git clone git@github.com:bmongemendez/macos-brewfile-config.git
 cd macos-brewfile-config
 sudo brew bundle install --file ./Brewfile
