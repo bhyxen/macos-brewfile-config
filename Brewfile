@@ -19,7 +19,6 @@ brew "jenv" # Manage Java Environment
 cask "font-hasklug-nerd-font"
 cask "google-chrome"
 cask "warp"
-cask "bitwarden"
 cask "authy"
 cask "raycast"
 cask "linearmouse"
@@ -53,6 +52,4 @@ mas "Xcode", id: 497799835
 mas "Malwarebytes Browser Guard", id: 1577761052
 mas "DaVinci Resolve", id: 571213070
 mas "Xnip - Screenshot & Annotation", id: 1221250572
-
-
-
+mas "Bitwarden", id: 1352778147
