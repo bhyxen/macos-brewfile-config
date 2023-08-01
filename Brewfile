@@ -1,7 +1,7 @@
 # 'brew tap'
-tap "homebrew/cask"
-tap "homebrew/cask-fonts"
-tap "homebrew/cask-versions"
+tap "homebrew/cask" # Default Casks Tap
+tap "homebrew/cask-fonts" # Required for 'font-hasklug-nerd-font'
+tap "homebrew/cask-versions" # Required for 'visual-studio'
 
 # 'brew install'
 brew "mas" # Mac App Store command-line interface
