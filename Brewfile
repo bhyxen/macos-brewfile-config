@@ -43,6 +43,7 @@ cask "hiddenbar"
 cask "notion"
 cask "mysqlworkbench"
 cask "intellij-idea"
+cask "fig"
 
 # 'mas install'
 mas "Adobe Lightroom", id: 1451544217
