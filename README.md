@@ -3,7 +3,9 @@ Brewfile configuration for an initial setup on MacOS using Homebrew.
 
 ## Installation
 ```console
-sudo brew bundle install --file <path-to-brewfile>
+git clone git@github.com:bmongemendez/macos-brewfile-config.git
+cd macos-brewfile-config
+sudo brew bundle install --file ./Brewfile
 ```
 Install and upgrade (by default) all dependencies from the Brewfile.
 
