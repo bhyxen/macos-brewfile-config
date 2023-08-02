@@ -9,7 +9,7 @@ sudo brew bundle install --file ./Brewfile
 ```
 Install and upgrade (by default) all dependencies from the Brewfile.
 
-## References:
+## References
 ### Homebrew Bundle
 - https://github.com/Homebrew/homebrew-bundle
 
