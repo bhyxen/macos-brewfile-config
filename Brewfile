@@ -48,6 +48,7 @@ cask "dotnet-sdk"
 cask "malwarebytes"
 cask "itsycal" # Toolbar Calendar
 cask "discord"
+cask "keka" # MacOS File Archiver
 
 # 'mas install'
 mas "Adobe Lightroom", id: 1451544217
