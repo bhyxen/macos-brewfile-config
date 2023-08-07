@@ -53,7 +53,6 @@ cask "keka" # MacOS File Archiver
 # 'mas install'
 mas "Adobe Lightroom", id: 1451544217
 mas "CapCut - Video Editor", id: 1500855883
-mas "Unzip - RAR ZIP 7Z Unarchiver", id: 1537056818
 mas "Xcode", id: 497799835
 mas "Malwarebytes Browser Guard", id: 1577761052
 mas "DaVinci Resolve", id: 571213070
