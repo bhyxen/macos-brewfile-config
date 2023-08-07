@@ -34,7 +34,7 @@ cask "streamlabs-obs"
 cask "onedrive"
 cask "qbittorrent"
 cask "raindropio"
-cask "insomnia"
+cask "insomnia" # API Development & Testing Tool
 cask "languagetool"
 cask "visual-studio"
 cask "craft"
