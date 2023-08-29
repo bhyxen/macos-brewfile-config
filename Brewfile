@@ -53,6 +53,7 @@ cask "docker"
 cask "gitkraken"
 cask "insomnia" # HTTP and GraphQL Client
 cask "alt-tab"
+cask "azure-data-studio"
 
 # 'mas install'
 mas "Adobe Lightroom", id: 1451544217
