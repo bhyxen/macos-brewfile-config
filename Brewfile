@@ -50,6 +50,7 @@ cask "itsycal" # Toolbar Calendar
 cask "discord"
 cask "keka" # MacOS File Archiver
 cask "docker"
+cask "gitkraken"
 
 # 'mas install'
 mas "Adobe Lightroom", id: 1451544217
