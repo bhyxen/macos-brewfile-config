@@ -54,6 +54,7 @@ cask "gitkraken"
 cask "insomnia" # HTTP and GraphQL Client
 cask "alt-tab"
 cask "azure-data-studio"
+cask "dbngin" # All-in-One Database Version Management Tool
 
 # 'mas install'
 mas "Adobe Lightroom", id: 1451544217
