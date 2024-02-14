@@ -26,7 +26,6 @@ cask "telegram"
 cask "visual-studio-code"
 cask "firefox"
 cask "rectangle"
-cask "intellij-idea"
 cask "monitorcontrol"
 cask "nvidia-geforce-now"
 cask "streamlabs-obs"
@@ -49,7 +48,6 @@ cask "discord"
 cask "keka" # MacOS File Archiver
 cask "docker"
 cask "gitkraken"
-cask "insomnia" # HTTP and GraphQL Client
 cask "alt-tab"
 cask "azure-data-studio"
 cask "dbngin" # All-in-One Database Version Management Tool
