@@ -54,6 +54,7 @@ cask "alt-tab"
 cask "azure-data-studio"
 cask "dbngin" # All-in-One Database Version Management Tool
 cask "tableplus" # Database Management
+cask "shottr" # Free Screenshot Tool
 
 # 'mas install'
 mas "Adobe Lightroom", id: 1451544217
@@ -61,5 +62,4 @@ mas "CapCut - Video Editor", id: 1500855883
 mas "Xcode", id: 497799835
 mas "Malwarebytes Browser Guard", id: 1577761052
 mas "DaVinci Resolve", id: 571213070
-mas "Xnip - Screenshot & Annotation", id: 1221250572
 mas "Bitwarden", id: 1352778147
