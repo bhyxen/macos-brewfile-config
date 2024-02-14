@@ -1,5 +1,4 @@
 # 'brew tap'
-tap "homebrew/cask" # Default Casks Tap
 tap "homebrew/cask-fonts" # Required for 'font-hasklug-nerd-font'
 
 # 'brew install'
