@@ -12,6 +12,8 @@ brew "htop"
 brew "mysql"
 brew "java"
 brew "jenv" # Manage Java Environment
+brew "bat" # Modern replacement for 'cat' command
+brew "lsd" # Modern replacement for 'ls' command
 
 # 'brew install --cask'
 cask "font-hack-nerd-font"
