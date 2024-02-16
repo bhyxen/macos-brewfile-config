@@ -14,7 +14,7 @@ brew "java"
 brew "jenv" # Manage Java Environment
 
 # 'brew install --cask'
-cask "font-hasklug-nerd-font"
+cask "font-hack-nerd-font"
 cask "google-chrome"
 cask "warp"
 cask "authy"
