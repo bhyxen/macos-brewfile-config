@@ -33,14 +33,14 @@ cask "streamlabs-obs"
 cask "onedrive"
 cask "qbittorrent"
 cask "raindropio"
-cask "insomnia" # API Development & Testing Tool
+cask "insomnia" # API Development & Testing Tool (Alternative to Postman)
 cask "languagetool"
 cask "craft"
 cask "hiddenbar"
 cask "notion"
 cask "mysqlworkbench"
 cask "intellij-idea"
-cask "fig"
+cask "fig" # Command line tool
 cask "deepl"
 cask "dotnet-sdk"
 cask "malwarebytes"
@@ -54,6 +54,7 @@ cask "azure-data-studio"
 cask "dbngin" # All-in-One Database Version Management Tool
 cask "tableplus" # Database Management
 cask "shottr" # Free Screenshot Tool
+cask "background-music" # Open Source Audio Mixing App: https://github.com/kyleneideck/BackgroundMusic
 
 # 'mas install'
 mas "Adobe Lightroom", id: 1451544217
