@@ -14,6 +14,7 @@ brew "java"
 brew "jenv" # Manage Java Environment
 brew "bat" # Modern replacement for 'cat' command
 brew "lsd" # Modern replacement for 'ls' command
+brew "git-extras" # Extra commands for git https://github.com/tj/git-extras
 
 # 'brew install --cask'
 cask "font-hack-nerd-font"
