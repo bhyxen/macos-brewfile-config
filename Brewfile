@@ -56,6 +56,7 @@ cask "dbngin" # All-in-One Database Version Management Tool
 cask "tableplus" # Database Management
 cask "shottr" # Free Screenshot Tool
 cask "background-music" # Open Source Audio Mixing App: https://github.com/kyleneideck/BackgroundMusic
+cask "command-x" # Cut Files
 
 # 'mas install'
 mas "Adobe Lightroom", id: 1451544217
