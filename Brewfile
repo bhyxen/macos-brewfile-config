@@ -58,6 +58,7 @@ cask "shottr" # Free Screenshot Tool
 cask "background-music" # Open Source Audio Mixing App: https://github.com/kyleneideck/BackgroundMusic
 cask "command-x" # Cut Files
 cask "stats" # System monitor for the menu bar
+cask "syntax-highlight", args: { no_quarantine: true } # Preview many different source code files with syntax highlighting
 
 # 'mas install'
 mas "Adobe Lightroom", id: 1451544217
