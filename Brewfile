@@ -57,6 +57,7 @@ cask "tableplus" # Database Management
 cask "shottr" # Free Screenshot Tool
 cask "background-music" # Open Source Audio Mixing App: https://github.com/kyleneideck/BackgroundMusic
 cask "command-x" # Cut Files
+cask "stats" # System monitor for the menu bar
 
 # 'mas install'
 mas "Adobe Lightroom", id: 1451544217
