@@ -1,5 +1,9 @@
-# MacOS Brewfile Initial Setup Configuration
-Brewfile configuration for an initial setup on MacOS using Homebrew.
+# Brewfile Initial Setup Configuration
+Brewfile configuration for an initial setup on MacOS or Linux using Homebrew.
+
+## Requirements
+- Homebrew (install [here](https://brew.sh/))
+- MacOS or Linux only
 
 ## Installation
 ```zsh
