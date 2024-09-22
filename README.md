@@ -22,7 +22,7 @@ Install and upgrade (by default) all dependencies from the Brewfile.
 ### mas-cli
 - https://github.com/mas-cli/mas
 
-Based on the documentation from mas-cli, it is required to have the apps previously purchased and associated with our Apple ID, given that mas-cli is not able to install or purchase an app for the first time.
+Based on the documentation from mas-cli, it's required to have the apps previously purchased and associated with our Apple ID, given that mas-cli is not able to install or purchase an app for the first time.
 
 ## Disable MacOS dock animation
 
