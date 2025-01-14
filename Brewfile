@@ -15,6 +15,7 @@ brew "jenv" # Manage Java Environment
 brew "bat" # Modern replacement for 'cat' command
 brew "lsd" # Modern replacement for 'ls' command
 brew "git-extras" # Extra commands for git https://github.com/tj/git-extras
+brew "tldr" # Simplified and community-driven man pages
 
 # 'brew install --cask'
 cask "font-hack-nerd-font"
@@ -59,7 +60,6 @@ cask "background-music" # Open Source Audio Mixing App: https://github.com/kylen
 cask "command-x" # Cut Files
 cask "stats" # System monitor for the menu bar
 cask "syntax-highlight", args: { no_quarantine: true } # Preview many different source code files with syntax highlighting
-cask "tldr" # Simplified and community-driven man pages
 
 # 'mas install'
 mas "Adobe Lightroom", id: 1451544217
