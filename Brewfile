@@ -38,7 +38,7 @@ cask "raindropio"
 cask "insomnia" # API Development & Testing Tool (Alternative to Postman)
 cask "languagetool"
 cask "craft"
-cask "hiddenbar"
+cask "jordanbaird-ice" # Powerful menu bar manager for macOS
 cask "notion"
 cask "mysqlworkbench"
 cask "intellij-idea"
