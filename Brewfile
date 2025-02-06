@@ -20,9 +20,9 @@ brew "tldr" # Simplified and community-driven man pages
 # 'brew install --cask'
 cask "font-hack-nerd-font"
 cask "google-chrome"
-cask "warp"
-cask "authy"
-cask "raycast"
+cask "warp" # Rust-based terminal with built-in AI features
+cask "ghostty" # Terminal emulator that uses platform-native UI and GPU acceleration
+cask "raycast" # Launcher MacOS - Control your tools with a few keystrokes
 cask "linearmouse"
 cask "whatsapp"
 cask "telegram"
